@@ -111,38 +111,3 @@ PlaylistDownloadButton = tk.Button(window, text="Click To Download Playlist",com
 label = tk.Label(window, text = "Thanks For Using YTDownloader",bg="darkred",fg="white").pack()
 
 window.mainloop()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-#print(CodePath)
-#print(IconPath)
-
-
-#tk.Label(window, text = "Finding Video...", height = 1, width = 70).pack()
-#sleep(0.1)
-#tk.Label(window, text = "Video Found!", height = 1, width = 70).pack()
-
-#title = "Title: ",yt.title
-#Title = tk.Label(window, text = title, height = 1, width = 70).pack()
-#views = "Number of views: ",yt.views
-#Views = tk.Label(window, text = views, height = 1, width = 70).pack()
-#length = "Length of video: ",yt.length 
-#Lenght= tk.Label(window, text = length, height = 1, width = 70).pack()
-#ratingOfVideo = "Rating of video: ",yt.rating
-#RatingOfVideo= tk.Label(window, text = ratingOfVideo, height = 1, width = 70).pack()
-
-# tk.Label(window, text = "Downloading Video...", height = 1, width = 70).pack()
-# sleep(0.1)
-
-
-#tk.Label(window, text = "Video Downloaded! Location:", height = 1, width = 70).pack()
-#tk.Label(window, text = location,height = 1, width = 70).pack()
-
