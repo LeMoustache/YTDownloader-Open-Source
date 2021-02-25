@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[14]:
-
-
 from pytube import YouTube, Playlist
 from pytube.helpers import safe_filename
 from time import sleep
