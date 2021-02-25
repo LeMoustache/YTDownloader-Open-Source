@@ -1,7 +1,7 @@
 # YTDownloader
-YTDownloader Is An Open Source Youtube Video/MP3/Playlist Downloader Made By LeMustache  Used 
+YTDownloader Is An Open Source Youtube Video/MP3/Playlist Downloader Made By LeMustache  
 
-Language:  
+Used Language:  
 Python  
 
 Used Libraries: 
