@@ -4,8 +4,6 @@
 from pytube import YouTube, Playlist
 from pytube.helpers import safe_filename
 from time import sleep
-from pydub import AudioSegment
-from pydub.playback import play
 import re
 import pathlib
 import os, os.path
