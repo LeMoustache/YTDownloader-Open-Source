@@ -1,8 +1,4 @@
 #!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 from pytube import YouTube, Playlist
 from pytube.helpers import safe_filename
@@ -209,10 +205,3 @@ FolderMP3Maker = tk.Button(window, text="Click To Convert Folder Files Into MP3"
 label = tk.Label(window, text = "Thanks For Using YTDownloader",bg="darkred",fg="white").pack()
 
 window.mainloop()
-
-
-# In[ ]:
-
-
-
-
