@@ -9,7 +9,6 @@ from pydub.playback import play
 import re
 import pathlib
 import os, os.path
-import random
 import moviepy.editor as mp
 
 
