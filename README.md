@@ -5,10 +5,10 @@ Download the libraries, Copy the code, Press start!
 You can also download the .EXE file: 
 [YTDownloaderV3.0.exe](https://drive.google.com/drive/folders/1_iSJNRNB2ZLV-AZQYNK4INPxTC3PiEN9)
 
-Used Language:  
+#Used Language:  
 Python  
 
-Used Libraries: 
+$Used Libraries: 
 pytube, 
 pytube.helpers, 
 time, 
